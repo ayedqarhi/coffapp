@@ -3,3 +3,9 @@ Milk
 Apple
 Cucembre
 Pear
+--------------
+Desk
+Chair
+Pen
+Marker
+Blackboard
