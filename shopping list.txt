@@ -3,3 +3,7 @@ Milk
 Apple
 Cucembre
 Pear
+--------------
+Computer
+Mouse
+Keyboard
